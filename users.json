@@ -1,0 +1,32 @@
+[
+  {
+    "username": "Машицын Леонид Михайлович",
+    "password": "$2b$10$8LydW.dMf2yPlWi/5I/9QOI1HDVh40NpvBqJ1jisDU7vSJoW1Ssym",
+    "isAdmin": false
+  },
+  {
+    "username": "Леонид Машицын",
+    "password": "$2b$10$UOHjLfylXwh9c7BbvA58BeSx1HOc0K5VudUR91V.t8Kur8X/26O36",
+    "isAdmin": true
+  },
+  {
+    "username": "Ленька53",
+    "password": "$2b$10$d7/9sCM1b9ZQDDUdbf30G.LSEUeFpBwaA29Ia47CPCvjv9eObqrh.",
+    "isAdmin": true
+  },
+  {
+    "username": "Белик",
+    "password": "$2b$10$puLdfE1zxEM6Hu2LZi3Dp.r6qFQelnJgm5F5Y9T/NlcCxu3dQk.YK",
+    "isAdmin": false
+  },
+  {
+    "username": "qwerf",
+    "password": "$2b$10$/Q2bHn..h/Hk36FMnsfEkeCecMxEQ9SUY6gqYTasF8Pd1UM9t4M8y",
+    "isAdmin": false
+  },
+  {
+    "username": "Леняя",
+    "password": "$2b$10$CFh55SWNgkN3JqLPfqxqu.6cQAaTzDQ2r97AHgd5Sgj0Ar2beHUSe",
+    "isAdmin": false
+  }
+]

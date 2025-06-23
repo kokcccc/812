@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Выбор программ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="toast-container"></div>
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <h3>Профиль</h3>
+      <button id="closeSidebar">×</button>
+    </div>
+    <div class="sidebar-content">
+      <p><strong>ФИО:</strong> <span id="userName">Загрузка...</span></p>
+      <p><strong>Статус заявки:</strong> <span id="userStatus">Неизвестно</span></p>
+      <div id="adminPanelLink" style="margin: 10px 0;"></div>
+      <button id="logoutBtn" class="logout-btn">Выйти</button>
+    </div>
+  </div>
+  <button id="openSidebar" class="sidebar-toggle">☰</button>
+  <div class="form-container">
+    <div class="form-header">
+      <h2>Выбор программ</h2>
+    </div>
+    <form id="softwareForm">
+      <div id="programList" class="program-list"></div>
+      <button type="submit">Сохранить</button>
+    </form>
+    <div id="adminLink" style="margin-top: 20px;"></div>
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>
